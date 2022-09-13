@@ -4,7 +4,7 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-1/ppt-day1.pdf">Handbook</a></li>
+    <li><a href="https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day1/FGABatch2DAY1.pdf">Handbook</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian1.ipynb">Apa itu Python?</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian2.ipynb">Struktur Kontrol dan Percabangan</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian3.ipynb">Operator Matematika</a></li>
