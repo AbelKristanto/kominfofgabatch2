@@ -7,16 +7,16 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 <p>Di hari yang indah ini ada beberapa bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan basic programming python untuk melakukan pemahaman lebih dalam tentang bahasa tersebut, perhatikan berikut ini:</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
-2. [Modul Hari Pertama](#)
-3. [Modul Hari Kedua](#)
-4. [Modul Hari Ketiga](#)
-5. [Modul Hari Keempat](#)
-6. [Modul Hari Kelima](#)
-7. [Modul Hari Keenam](#)
-8. [Modul Hari Ketujuh](#)
-9. [Modul Hari Kedelapan](#)
-10. [Modul Hari Kesembilan](#)
-11. [Modul Hari Kesepuluh](#)
+2. [Modul Hari Pertama](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day1/README.md)
+3. Modul Hari Kedua
+4. Modul Hari Ketiga
+5. Modul Hari Keempat
+6. Modul Hari Kelima
+7. Modul Hari Keenam
+8. Modul Hari Ketujuh
+9. Modul Hari Kedelapan
+10. Modul Hari Kesembilan
+11. Modul Hari Kesepuluh
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
