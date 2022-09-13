@@ -5,14 +5,15 @@
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
     <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-1/ppt-day1.pdf">Handbook</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/apaitupython.ipynb">Apa itu Python?</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/strukturkontrol.ipynb">Struktur Kontrol dan Percabangan</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/operator.ipynb">Operator Matematika</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/perulangan.ipynb">Perulangan</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/function.ipynb">Function</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/modulepackage.ipynb">Modul dan Package</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/membacafile.ipynb">Menbaca dari File</a></li>
-    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-1/grafik.ipynb">Grafik dasar</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian1.ipynb">Apa itu Python?</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian2.ipynb">Struktur Kontrol dan Percabangan</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian3.ipynb">Operator Matematika</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian4.ipynb">Perulangan</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian5.ipynb">Function</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian6.ipynb">Modul dan Package</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian7.ipynb">Menbaca dari File</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/bagian8.ipynb">Grafik dasar</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/73790f9418a7d5858b60d304737fcfea88584a51/day1/miniquiz.ipynb">Quiz Mini</a></li>
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol <b>download</b> di pojok kanan ya!
