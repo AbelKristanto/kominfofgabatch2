@@ -8,7 +8,7 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
 2. [Modul Hari Pertama](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day1/README.md)
-3. Modul Hari Kedua
+3. [Modul Hari Kedua](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day2/README.md)
 4. Modul Hari Ketiga
 5. Modul Hari Keempat
 6. Modul Hari Kelima
