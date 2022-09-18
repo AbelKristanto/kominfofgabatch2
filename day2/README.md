@@ -16,7 +16,7 @@
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol <b>download ![image](https://user-images.githubusercontent.com/58840455/190901280-e324a608-23d8-4f18-94d7-02691240ce6c.png)
-</b> di pojok kanan ya!
+ </b> di pojok kanan ya!
 
 </br>
 
