@@ -4,7 +4,7 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day1/day-6.pdf">Handbook</a></li>
+    <li><a href="https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-6/day-6.pdf">Handbook</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/9ac0db8db924ee633f46f1cb0ba55792f6260281/day-6/bagian2.ipynb">MINI QUIZ: SQL</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/kominfofgabatch2/blob/9ac0db8db924ee633f46f1cb0ba55792f6260281/day-6/bagian3.ipynb">MINI QUIZ: EDA</a></li>
 </ol>
