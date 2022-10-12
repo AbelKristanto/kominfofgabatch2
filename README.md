@@ -13,7 +13,7 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 5. [Modul Hari Keempat](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-4/readme.MD)
 6. [Modul Hari Kelima](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-5/readme.MD)
 7. [Modul Hari Keenam](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-6/readme.MD)
-8. Modul Hari Ketujuh
+8. [Modul Hari Ketujuh](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-7/readme.MD)
 9. Modul Hari Kedelapan
 10. Modul Hari Kesembilan
 11. Modul Hari Kesepuluh
