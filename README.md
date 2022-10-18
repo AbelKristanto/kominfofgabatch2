@@ -16,7 +16,7 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 8. [Modul Hari Ketujuh](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-7/readme.MD)
 9. [Modul Hari Kedelapan](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-8/readme.MD)
 10. [Modul Hari Kesembilan](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-9/readme.MD)
-11. Modul Hari Kesepuluh
+11. [Modul Hari Kesepuluh](https://github.com/AbelKristanto/kominfofgabatch2/blob/main/day-10/readme.MD)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
