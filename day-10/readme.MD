@@ -4,7 +4,7 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="covid19.go.id/dokumentasi-api">Sumber Data</a></li>
+    <li><a href="https://covid19.go.id/id/dokumentasi-api">Sumber Data</a></li>
     <li><a href="#">Handbook</a></li>
 </ol>
 
